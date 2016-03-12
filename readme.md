@@ -3,7 +3,11 @@ marshal the data into well-typed structures.
 
 Documentation
 -------------
- - [GoDoc Documentation](https://godoc.org/github.com/crunchyroll/govalid)
+ - [GoDoc Documentation](https://godoc.org/chrispennello.com/go/govalid)
+
+Installation
+------------
+    go get chrispennello.com/go/govalid
 
 Testing
 -------
